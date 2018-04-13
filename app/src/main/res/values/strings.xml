@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ONGC HOSPITAL CARE APP</string>
+    <string name="drug_name">Enter the Drug Name</string>
+    <string name="drug_quantity">Enter the Drug Quantity(in mg)</string>
+    <string name="drug_dosage">Enter the Drug Dosage</string>
+    <string-array name="acc_type">
+        <item>----CATEGORY---</item>
+        <item>TAB</item>
+        <item>INJ</item>
+        <item>DROP</item>
+        <item>LIQUID</item>
+        <item>CAP</item>
+        <item>SPRAY</item>
+        <item>LCL APPLN</item>
+        <item>ROLL</item>
+        <item>RESPULES</item>
+        <item>TAPE</item>
+        <item>PKT</item>
+        <item>RESPICAPS</item>
+        <item>LOTION</item>
+        <item>SACHET</item>
+        <item>SUPPOST</item>
+        <item>INHALER</item>
+        <item>SET</item>
+        <item>POWDER</item>
+        <item>ROTACAP</item>
+        <item>SYRINGE</item>
+    </string-array>
+
+</resources>
